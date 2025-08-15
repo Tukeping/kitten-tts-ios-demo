@@ -16,7 +16,4 @@
 
 ## Demo Video
 
-<video controls muted autoplay>
-  <source src="Videos/Screen-2025-08-15-101219.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video src="https://github.com/user-attachments/assets/8bd20869-b188-4396-a719-3ffc3905ea3f" controls width="400"></video>
